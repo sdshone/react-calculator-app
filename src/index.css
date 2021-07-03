@@ -1,0 +1,41 @@
+body {background-color: powderblue;
+  margin:0 auto;
+  display: inline-block;
+}
+#root1{
+  padding-left: 200px;
+  padding-top: 100px;
+
+}
+
+input {
+    height: 100px;
+    width: 400px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: right;
+    border: 5px solid grey;
+    font-size: 70px;
+    color: #304ffe;
+}
+table{
+  border: 10px solid black;
+  background-color: white;
+}
+button{
+  height: 100px;
+  width: 100px;
+  color: #304ffe;
+  border: 0px solid grey;
+  background-color: white;
+  font-size: 80px;
+  border-radius: 0px;
+  background-color: white;
+}
+button:hover {
+    background-color: #304ffe; /* Green */
+    color: white;
+}
+#clear{
+}
